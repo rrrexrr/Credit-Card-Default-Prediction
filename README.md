@@ -1,13 +1,24 @@
-# Homework 5
+# Credit Card Default Prediction
 
-To complete this homework, you will need to:
+This project explores whether a client's demographic information, billing history, and repayment behavior can be used to predict default payment next month.
 
-- Create a private repository from the provided template
+## Overview
+Using the Default of Credit Card Clients dataset, I built and evaluated classification models to study default risk prediction. The project includes data preprocessing, exploratory analysis, model training, and performance evaluation.
 
-- Clone the repository to your local computer
+## Dataset
+- Default of Credit Card Clients dataset
+- Binary classification task
+- Target: default payment next month
 
-- Work on the assignment in Jupyter Lab or VS Code, committing your work regularly
+## Methods
+- Data cleaning and preprocessing
+- Exploratory data analysis
+- Train/test split
+- Classification modeling
+- Model evaluation using standard metrics
 
-- Submit your solution on Gradescope
+## Results
+More details and final model comparisons will be added soon.
 
-Detailed instructions for each step are available on [the course website](https://ubc-cs.github.io/cpsc330-2025W2/docs/homework-instructions).
+## Files
+- `credit_default_analysis.ipynb`: main analysis notebook
